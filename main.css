@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:100i,400,700i');
 body {
-  font-family: monospace;
   font-family: IBM Plex Mono, monospace;
   background-color: gainsboro;
   color: darkslategray;
