@@ -1,37 +1,6 @@
-﻿The Project Gutenberg EBook of Leaves of Grass, by Walt Whitman
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+﻿LEAVES OF GRASS
 
 
-Title: Leaves of Grass
-
-Author: Walt Whitman
-
-Posting Date: August 24, 2008 [EBook #1322]
-Release Date: May, 1998
-[Last updated: February 22, 2019]
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK LEAVES OF GRASS ***
-
-
-
-
-Produced by G. Fuhrman
-
-
-
-
-
-LEAVES OF GRASS
-
-By Walt Whitman
 
      Such verses for my Body let us write, (for we are one,)
      That should I after return,
@@ -67,7 +36,7 @@ One’s-Self I Sing
 
 
 
-As I Ponder’d in Silence
+’d in Silence
 
   Returning upon my poems, considering, lingering long,
   A Phantom arose before me with distrustful aspect,
@@ -83,7 +52,37 @@ As I Ponder’d in Silence
   I too haughty Shade also sing war, and a longer and greater one than any,
   Waged in my book with varying fortune, with flight, advance
       and retreat, victory deferr’d and wavering,
-  (Yet methinks certain, or as good as certain, at the last,) the
+  (Yet methinks The Project Gutenberg EBook of Leaves of Grass, by Walt Whitman
+
+ for the use of anyone anywhere at no cost and with
+ whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+ or online at www.gutenberg.org
+
+
+Title: Leaves of Grass
+
+Author: Walt Whitman
+
+Posting Date: August 24, 2008 [EBook #1322]
+Release Date: May, 1998
+[Last updated: February 22, 2019]
+
+Language: English
+
+: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LEAVES OF GRASS ***
+
+
+
+
+. Fuhrman
+
+
+
+
+certain, or as good as certain, at the last,) the
       field the world,
   For life and death, for the Body and for the eternal Soul,
   Lo, I too am come, chanting the chant of battles,
@@ -126,7 +125,7 @@ In Cabin’d Ships at Sea
 
 
 
-To Foreign Lands
+
 
   And to define America, her athletic Democracy,
   Therefore I send you my poems that you behold in them what you wanted.
@@ -134,7 +133,7 @@ To Foreign Lands
 
 
 
-To a Historian
+
 
   Who have explored the outward, the surfaces of the races, the life
       that has exhibited itself,
@@ -150,7 +149,7 @@ To a Historian
 
 
 
-To Thee Old Cause
+ Cause
 
   To thee old cause!
   Thou peerless, passionate, good cause,
@@ -265,7 +264,7 @@ Eidolons
 
 
 
-For Him I Sing
+ Sing
 
   I raise the present on the past,
   (As some perennial tree out of its roots, the present on the past,)
@@ -275,7 +274,7 @@ For Him I Sing
 
 
 
-When I Read the Book
+ the Book
 
   And is this then (said I) what the author calls a man’s life?
   And so will some one when I am dead and gone write my life?
@@ -287,7 +286,7 @@ When I Read the Book
 
 
 
-Beginning My Studies
+
 
   The mere fact consciousness, these forms, the power of motion,
   The least insect or animal, the senses, eyesight, love,
@@ -312,7 +311,7 @@ Beginners
 
 
 
-To the States
+
  Resist
       much, obey little,
   Once unquestioning obedience, once fully enslaved,
@@ -322,7 +321,7 @@ To the States
 
 
 
-On Journeys Through the States
+ the States
 
   (Ay through the world, urged by these songs,
   Sailing henceforth to every land, to every sea,)
@@ -344,7 +343,7 @@ On Journeys Through the States
 
 
 
-To a Certain Cantatrice
+ Cantatrice
 
   I was reserving it for some hero, speaker, or general,
   One who should serve the good old cause, the great idea, the
@@ -385,7 +384,7 @@ Savantism
 
 
 
-The Ship Starting
+
 
   On its breast a ship starting, spreading all sails, carrying even
       her moonsails.
@@ -396,7 +395,7 @@ The Ship Starting
 
 
 
-I Hear America Singing
+ Singing
 
 
   The carpenter singing his as he measures his plank or beam,
@@ -417,7 +416,7 @@ I Hear America Singing
 
 
 
-What Place Is Besieged?
+ Besieged?
  and vainly tries to raise the siege?
   Lo, I send to that place a commander, swift, brave, immortal,
   And with him horse and foot, and parks of artillery,
@@ -426,7 +425,7 @@ What Place Is Besieged?
 
 
 
-Still Though the One I Sing
+ One I Sing
 
   (One, yet of contradictions made,) I dedicate to Nationality,
   I leave in him revolt, (O latent right of insurrection! O
@@ -435,7 +434,7 @@ Still Though the One I Sing
 
 
 
-Shut Not Your Doors
+ Doors
 
   For that which was lacking on all your well-fill’d shelves, yet
       needed most, I bring,
@@ -447,7 +446,7 @@ Shut Not Your Doors
 
 
 
-Poets to Come
+
  musicians to come!
   Not to-day is to justify me and answer what I am for,
   But you, a new brood, native, athletic, continental, greater than
@@ -481,7 +480,7 @@ Thou Reader
 BOOK II
 
 
-Starting from Paumanok
+
 
        1
   Starting from fish-shape Paumanok where I was born,
@@ -895,7 +894,7 @@ Starting from Paumanok
 BOOK III
 
 
-Song of Myself
+
 
        1
   I celebrate myself, and sing myself,
@@ -2716,7 +2715,7 @@ Song of Myself
 BOOK IV.  CHILDREN OF ADAM
 
 
-To the Garden the World
+ the World
 
   Potent mates, daughters, sons, preluding,
   The love, the life of their bodies, meaning and being,
@@ -2806,7 +2805,7 @@ From Pent-Up Aching Rivers
 
 
 
-I Sing the Body Electric
+ Body Electric
 
        1
   I sing the body electric,
@@ -3066,7 +3065,7 @@ I Sing the Body Electric
 
 
 
-A Woman Waits for Me
+ for Me
 
   Yet all were lacking if sex were lacking, or if the moisture of the
       right man were lacking.
@@ -3197,7 +3196,7 @@ Spontaneous Me
 
 
 
-One Hour to Madness and Joy
+ Madness and Joy
 
   One hour to madness and joy! O furious! O confine me not!
   (What is this that frees me so in storms?
@@ -3232,7 +3231,7 @@ One Hour to Madness and Joy
 
 
 
-Out of the Rolling Ocean the Crowd
+ Rolling Ocean the Crowd
 
   Whispering I love you, before long I die,
   I have travel’d a long way merely to look on you to touch you,
@@ -3251,7 +3250,7 @@ Out of the Rolling Ocean the Crowd
 
 
 
-Ages and Ages Returning at Intervals
+ Returning at Intervals
 
   Undestroy’d, wandering immortal,
   Lusty, phallic, with the potent original loins, perfectly sweet,
@@ -3299,7 +3298,7 @@ O Hymen! O Hymenee!
 
 
 
-I Am He That Aches with Love
+ That Aches with Love
 
   I am he that aches with amorous love;
   Does the earth gravitate? does not all matter, aching, attract all matter?
@@ -3328,7 +3327,7 @@ Native Moments
 
 
 
-Once I Pass’d Through a Populous City
+’d Through a Populous City
 
   Once I pass’d through a populous city imprinting my brain for future
       use with its shows, architecture, customs, traditions,
@@ -3344,7 +3343,7 @@ Once I Pass’d Through a Populous City
 
 
 
-I Heard You Solemn-Sweet Pipes of the Organ
+ Solemn-Sweet Pipes of the Organ
 
   I heard you solemn-sweet pipes of the organ as last Sunday morn I
       pass’d the church,
@@ -3360,7 +3359,7 @@ I Heard You Solemn-Sweet Pipes of the Organ
 
 
 
-Facing West from California’s Shores
+ California’s Shores
 
   Inquiring, tireless, seeking what is yet unfound,
   I, a child, very old, over waves, towards the house of maternity,
@@ -3377,7 +3376,7 @@ Facing West from California’s Shores
 
 
 
-As Adam Early in the Morning
+ in the Morning
 
   Walking forth from the bower refresh’d with sleep,
   Behold me where I pass, hear my voice, approach,
@@ -3390,7 +3389,7 @@ As Adam Early in the Morning
 BOOK V.  CALAMUS
 
 
-In Paths Untrodden
+
 
   In the growth by margins of pond-waters,
   Escaped from the life that exhibits itself,
@@ -3416,7 +3415,7 @@ In Paths Untrodden
 
 
 
-Scented Herbage of My Breast
+ My Breast
 
   Leaves from you I glean, I write, to be perused best afterwards,
   Tomb-leaves, body-leaves growing up above me above death,
@@ -3473,7 +3472,7 @@ Scented Herbage of My Breast
 
 
 
-Whoever You Are Holding Me Now in Hand
+ Holding Me Now in Hand
 
   Without one thing all will be useless,
   I give you fair warning before you attempt me further,
@@ -3539,7 +3538,7 @@ Whoever You Are Holding Me Now in Hand
 
 
 
-These I Singing in Spring
+ in Spring
 
   (For who but I should understand lovers and all their sorrow and joy?
   And who but I should be the poet of comrades?)
@@ -3580,7 +3579,7 @@ These I Singing in Spring
 
 
 
-Not Heaving from My Ribb’d Breast Only
+ My Ribb’d Breast Only
 
   Not in sighs at night in rage dissatisfied with myself,
   Not in those long-drawn, ill-supprest sighs,
@@ -3604,7 +3603,7 @@ Not Heaving from My Ribb’d Breast Only
 
 
 
-Of the Terrible Doubt of Appearances
+ Doubt of Appearances
 
   Of the uncertainty after all, that we may be deluded,
   That may-be reliance and hope are but speculations after all,
@@ -3636,7 +3635,7 @@ Of the Terrible Doubt of Appearances
 
 
 
-The Base of All Metaphysics
+ All Metaphysics
 
   A word I give to remain in your memories and minds,
   As base and finale too for all metaphysics.
@@ -3657,7 +3656,7 @@ The Base of All Metaphysics
 
 
 
-Recorders Ages Hence
+
 
   Come, I will take you down underneath this impassive exterior, I
       will tell you what to say of me,
@@ -3678,7 +3677,7 @@ Recorders Ages Hence
 
 
 
-When I Heard at the Close of the Day
+ at the Close of the Day
 
   When I heard at the close of the day how my name had been receiv’d
       with plaudits in the capitol, still it was not a happy night for
@@ -3709,7 +3708,7 @@ When I Heard at the Close of the Day
 
 
 
-Are You the New Person Drawn Toward Me?
+ New Person Drawn Toward Me?
 
   Are you the new person drawn toward me?
   To begin with take warning, I am surely far different from what you suppose;
@@ -3725,7 +3724,7 @@ Are You the New Person Drawn Toward Me?
 
 
 
-Roots and Leaves Themselves Alone
+ Themselves Alone
 
   Scents brought to men and women from the wild woods and pond-side,
   Breast-sorrel and pinks of love, fingers that wind around tighter
@@ -3746,7 +3745,7 @@ Roots and Leaves Themselves Alone
 
 
 
-Not Heat Flames Up and Consumes
+ Up and Consumes
 
   Not sea-waves hurry in and out,
   Not the air delicious and dry, the air of ripe summer, bears lightly
@@ -3782,7 +3781,7 @@ Trickle Drops
 
 
 
-City of Orgies
+
 
   City whom that I have lived and sung in your midst will one day make
   Not the pageants of you, not your shifting tableaus, your
@@ -3800,7 +3799,7 @@ City of Orgies
 
 
 
-Behold This Swarthy Face
+ Face
 
   This beard, the white wool unclipt upon my neck,
   My brown hands and the silent manner of me without charm;
@@ -3814,7 +3813,7 @@ Behold This Swarthy Face
 
 
 
-I Saw in Louisiana a Live-Oak Growing
+ Louisiana a Live-Oak Growing
 
   All alone stood it and the moss hung down from the branches,
   Without any companion it grew there uttering joyous of dark green,
@@ -3835,7 +3834,7 @@ I Saw in Louisiana a Live-Oak Growing
 
 
 
-To a Stranger
+
 
   You must be he I was seeking, or she I was seeking, (it comes to me
       as of a dream,)
@@ -3855,7 +3854,7 @@ To a Stranger
 
 
 
-This Moment Yearning and Thoughtful
+ and Thoughtful
 
   It seems to me there are other men in other lands yearning and thoughtful,
   It seems to me I can look over and behold them in Germany, Italy,
@@ -3869,7 +3868,7 @@ This Moment Yearning and Thoughtful
 
 
 
-I Hear It Was Charged Against Me
+ Was Charged Against Me
 
   But really I am neither for nor against institutions,
   (What indeed have I in common with them? or what with the
@@ -3902,7 +3901,7 @@ The Prairie-Grass Dividing
 
 
 
-When I Peruse the Conquer’d Fame
+ the Conquer’d Fame
 
   When I peruse the conquer’d fame of heroes and the victories of
       mighty generals, I do not envy the generals,
@@ -3917,7 +3916,7 @@ When I Peruse the Conquer’d Fame
 
 
 
-We Two Boys Together Clinging
+ Together Clinging
 
   One the other never leaving,
   Up and down the roads going, North and South excursions making,
@@ -3933,7 +3932,7 @@ We Two Boys Together Clinging
 
 
 
-A Promise to California
+ California
 
   Or inland to the great pastoral Plains, and on to Puget sound and Oregon;
   Sojourning east a while longer, soon I travel toward you, to remain,
@@ -3945,7 +3944,7 @@ A Promise to California
 
 
 
-Here the Frailest Leaves of Me
+ Leaves of Me
 
   Here I shade and hide my thoughts, I myself do not expose them,
   And yet they expose me more than all my other poems.
@@ -3980,7 +3979,7 @@ A Glimpse
 
 
 
-A Leaf for Hand in Hand
+ Hand in Hand
 
   A leaf for hand in hand;
   You natural persons old and young!
@@ -4015,7 +4014,7 @@ I Dream’d in a Dream
 
 
 
-What Think You I Take My Pen in Hand?
+ I Take My Pen in Hand?
 
   What think you I take my pen in hand to record?
   The battle-ship, perfect-model’d, majestic, that I saw pass the
@@ -4031,7 +4030,7 @@ What Think You I Take My Pen in Hand?
 
 
 
-To the East and to the West
+ and to the West
 
   To the man of the Seaside State and of Pennsylvania,
   To the Kanadian of the north, to the Southerner I love,
@@ -4043,7 +4042,7 @@ To the East and to the West
 
 
 
-Sometimes with One I Love
+ I Love
 
   Sometimes with one I love I fill myself with rage for fear I effuse
       unreturn’d love,
@@ -4055,7 +4054,7 @@ Sometimes with One I Love
 
 
 
-To a Western Boy
+ Boy
 
   Many things to absorb I teach to help you become eleve of mine;
   Yet if blood like mine circle not in your veins,
@@ -4077,7 +4076,7 @@ Fast Anchor’d Eternal O Love!
 
 
 
-Among the Multitude
+
 
   I perceive one picking me out by secret and divine signs,
   Acknowledging none else, not parent, wife, husband, brother, child,
@@ -4090,7 +4089,7 @@ Among the Multitude
 
 
 
-O You Whom I Often and Silently Come
+ I Often and Silently Come
 
   As I walk by your side or sit near, or remain in the same room with you,
   Little you know the subtle electric fire that for your sake is
@@ -4099,7 +4098,7 @@ O You Whom I Often and Silently Come
 
 
 
-That Shadow My Likeness
+ Likeness
 
       chattering, chaffering,
   How often I find myself standing and looking at it where it flits,
@@ -4110,7 +4109,7 @@ That Shadow My Likeness
 
 
 
-Full of Life Now
+ Now
 
   I, forty years old the eighty-third year of the States,
   To one a century hence or any number of centuries hence,
@@ -4126,7 +4125,7 @@ Full of Life Now
 BOOK VI
 
 
-Salut au Monde!
+!
 
        1
   O take my hand Walt Whitman!
@@ -4461,7 +4460,7 @@ Salut au Monde!
 BOOK VII
 
 
-Song of the Open Road
+ Open Road
 
        1
   Afoot and light-hearted I take to the open road,
@@ -4797,7 +4796,7 @@ Song of the Open Road
 BOOK VIII
 
 
-Crossing Brooklyn Ferry
+
 
        1
   Flood-tide below me! I see you face to face!
@@ -5003,7 +5002,7 @@ Crossing Brooklyn Ferry
 BOOK IX
 
 
-Song of the Answerer
+ Answerer
 
        1
   Now list to my morning’s romanza, I tell the signs of the Answerer,
@@ -5141,7 +5140,7 @@ Song of the Answerer
 BOOK X
 
 
-Our Old Feuillage
+
 
   Always our old feuillage!
   Always Florida’s green peninsula--always the priceless delta of
@@ -5317,7 +5316,7 @@ Our Old Feuillage
 BOOK XI
 
 
-A Song of Joys
+ Joys
 
   O to make the most jubilant song!
   Full of music--full of manhood, womanhood, infancy!
@@ -5555,7 +5554,7 @@ A Song of Joys
 BOOK XII
 
 
-Song of the Broad-Axe
+ Broad-Axe
 
        1
   Weapon shapely, naked, wan,
@@ -5927,7 +5926,7 @@ Song of the Broad-Axe
 BOOK XIII
 
 
-Song of the Exposition
+ Exposition
 
        1
   (Ah little recks the laborer,
@@ -6234,7 +6233,7 @@ Song of the Exposition
 BOOK XIV
 
 
-Song of the Redwood-Tree
+ Redwood-Tree
 
        1
   A California song,
@@ -6374,7 +6373,7 @@ Song of the Redwood-Tree
 BOOK XV
 
 
-A Song for Occupations
+ Occupations
 
        1
   A song for occupations!
@@ -6629,7 +6628,7 @@ A Song for Occupations
 BOOK XVI
 
 
-A Song of the Rolling Earth
+ the Rolling Earth
 
        1
   A song of the rolling earth, and of words according,
@@ -6818,7 +6817,7 @@ A Song of the Rolling Earth
 BOOK XVII.  BIRDS OF PASSAGE
 
 
-Song of the Universal
+ Universal
 
        1
   Come said the Muse,
@@ -7135,7 +7134,7 @@ France [the 18th Year of these States
 
 
 
-Myself and Mine
+
 
   To stand the cold or heat, to take good aim with a gun, to sail a
       boat, to manage horses, to beget superb children,
@@ -7187,7 +7186,7 @@ Myself and Mine
 
 
 
-Year of Meteors [1859-60
+ [1859-60
 
   Year of meteors! brooding year!
   I would bind in words retrospective some of your deeds and signs,
@@ -7292,7 +7291,7 @@ With Antecedents
 BOOK XVIII
 
 
-A Broadway Pageant
+
 
        1
   Over the Western sea hither from Niphon come,
@@ -7416,7 +7415,7 @@ A Broadway Pageant
 BOOK XIX.  SEA-DRIFT
 
 
-Out of the Cradle Endlessly Rocking
+ Cradle Endlessly Rocking
 
   Out of the mocking-bird’s throat, the musical shuttle,
   Out of the Ninth-month midnight,
@@ -7631,7 +7630,7 @@ Out of the Cradle Endlessly Rocking
 
 
 
-As I Ebb’d with the Ocean of Life
+’d with the Ocean of Life
 
        1
   As I ebb’d with the ocean of life,
@@ -7745,7 +7744,7 @@ Tears
 
 
 
-To the Man-of-War-Bird
+-of-War-Bird
 
   Waking renew’d on thy prodigious pinions,
   (Burst the wild storm? above it thou ascended’st,
@@ -7771,7 +7770,7 @@ To the Man-of-War-Bird
 
 
 
-Aboard at a Ship’s Helm
+ Ship’s Helm
 
   A young steersman steering with care.
 
@@ -7788,7 +7787,7 @@ Aboard at a Ship’s Helm
 
 
 
-On the Beach at Night
+ at Night
 
   Stands a child with her father,
   Watching the east, the autumn sky.
@@ -7830,7 +7829,7 @@ On the Beach at Night
 
 
 
-The World below the Brine
+ the Brine
 
   Forests at the bottom of the sea, the branches and leaves,
   Sea-lettuce, vast lichens, strange flowers and seeds, the thick
@@ -7854,7 +7853,7 @@ The World below the Brine
 
 
 
-On the Beach at Night Alone
+ at Night Alone
 
   As the old mother sways her to and fro singing her husky song,
   As I watch the bright stars shining, I think a thought of the clef
@@ -7926,7 +7925,7 @@ Patroling Barnegat
 
 
 
-After the Sea-Ship
+-Ship
 
   After the white-gray sails taut to their spars and ropes,
   Below, a myriad myriad waves hastening, lifting up their necks,
@@ -7947,7 +7946,7 @@ After the Sea-Ship
 BOOK XX.  BY THE ROADSIDE
 
 
-A Boston Ballad [1854]
+ [1854]
 
   Here’s a good place at the corner, I must stand and see the show.
 
@@ -8142,7 +8141,7 @@ Thoughts
 
 
 
-When I Heard the Learn’d Astronomer
+ the Learn’d Astronomer
 
   When the proofs, the figures, were ranged in columns before me,
   When I was shown the charts and diagrams, to add, divide, and measure them,
@@ -8182,7 +8181,7 @@ O Me! O Life!
 
 
 
-To a President
+
 
   You have not learn’d of Nature--of the politics of Nature you have
       not learn’d the great amplitude, rectitude, impartiality,
@@ -8193,7 +8192,7 @@ To a President
 
 
 
-I Sit and Look Out
+ Look Out
  and upon all
       oppression and shame,
   I hear secret convulsive sobs from young men at anguish with
@@ -8216,7 +8215,7 @@ I Sit and Look Out
 
 
 
-To Rich Givers
+
 
   A little sustenance, a hut and garden, a little money, as I
       rendezvous with my poems,
@@ -8229,7 +8228,7 @@ To Rich Givers
 
 
 
-The Dalliance of the Eagles
+ the Eagles
 )
   Skyward in air a sudden muffled sound, the dalliance of the eagles,
   The rushing amorous contact high in space together,
@@ -8244,7 +8243,7 @@ The Dalliance of the Eagles
 
 
 
-Roaming in Thought [After reading Hegel]
+ [After reading Hegel]
  I saw the little that is Good
       steadily hastening towards immortality,
   And the vast all that is call’d Evil I saw hastening to merge itself
@@ -8253,7 +8252,7 @@ Roaming in Thought [After reading Hegel]
 
 
 
-A Farm Picture
+
 
   A sunlit pasture field with cattle and horses feeding,
   And haze and vista, and the far horizon fading away.
@@ -8285,7 +8284,7 @@ Beautiful Women
 
 
 
-Mother and Babe
+
 
   The sleeping mother and babe--hush’d, I study them long and long.
 
@@ -8328,7 +8327,7 @@ Gliding O’er all
 
 
 
-Hast Never Come to Thee an Hour
+ to Thee an Hour
 
   A sudden gleam divine, precipitating, bursting all these bubbles,
       fashions, wealth?
@@ -8346,7 +8345,7 @@ Thought
 
 
 
-To Old Age
+
 
   I see in you the estuary that enlarges and spreads itself grandly as
       it pours in the great sea.
@@ -8354,7 +8353,7 @@ To Old Age
 
 
 
-Locations and Times
+
  whenever
       and wherever, and makes me at home?
   Forms, colors, densities, odors--what is it in me that corresponds
@@ -8387,7 +8386,7 @@ Offerings
 BOOK XXI.  DRUM-TAPS
 
 
-First O Songs for a Prelude
+ for a Prelude
 
   Lightly strike on the stretch’d tympanum pride and joy in my city,
   How she led the rest to arms, how she gave the cue,
@@ -8529,7 +8528,7 @@ Beat! Beat! Drums!
 
 
 
-From Paumanok Starting I Fly Like a Bird
+ I Fly Like a Bird
 
   Around and around to soar to sing the idea of all,
   To the north betaking myself to sing there arctic songs,
@@ -8546,7 +8545,7 @@ From Paumanok Starting I Fly Like a Bird
 
 
 
-Song of the Banner at Daybreak
+ Banner at Daybreak
 
        Poet:
   O A new song, a free song,
@@ -8758,7 +8757,7 @@ Song of the Banner at Daybreak
 
 
 
-Rise O Days from Your Fathomless Deeps
+ from Your Fathomless Deeps
 
        1
   Rise O days from your fathomless deeps, till you loftier, fiercer sweep,
@@ -8848,7 +8847,7 @@ Virginia--The West
 
 
 
-City of Ships
+
 
   City of ships!
   (O the black ships! O the fierce ships!
@@ -9015,7 +9014,7 @@ The Centenarian’s Story
 
 
 
-Cavalry Crossing a Ford
+ Ford
 
   They take a serpentine course, their arms flash in the sun--hark to
       the musical clank,
@@ -9030,7 +9029,7 @@ Cavalry Crossing a Ford
 
 
 
-Bivouac on a Mountain Side
+ Mountain Side
 
   Below a fertile valley spread, with barns and the orchards of summer,
   Behind, the terraced sides of a mountain, abrupt, in places rising high,
@@ -9044,7 +9043,7 @@ Bivouac on a Mountain Side
 
 
 
-An Army Corps on the March
+ on the March
 
   With now the sound of a single shot snapping like a whip, and now an
       irregular volley,
@@ -9057,7 +9056,7 @@ An Army Corps on the March
 
 
 
-By the Bivouac’s Fitful Flame
+’s Fitful Flame
 
   A procession winding around me, solemn and sweet and slow--but
       first I note,
@@ -9075,7 +9074,7 @@ By the Bivouac’s Fitful Flame
 
 
 
-Come Up from the Fields Father
+ the Fields Father
 
   And come to the front door mother, here’s a letter from thy dear son.
 
@@ -9123,7 +9122,7 @@ Come Up from the Fields Father
 
 
 
-Vigil Strange I Kept on the Field One Night
+ Kept on the Field One Night
 
   Vigil strange I kept on the field one night;
   When you my son and my comrade dropt at my side that day,
@@ -9199,7 +9198,7 @@ Vigil Strange I Kept on the Field One Night
 
 
 
-A Sight in Camp in the Daybreak Gray and Dim
+ Camp in the Daybreak Gray and Dim
 
   As from my tent I emerge so early sleepless,
   As slow I walk in the cool fresh air the path near by the hospital tent,
@@ -9223,7 +9222,7 @@ A Sight in Camp in the Daybreak Gray and Dim
 
 
 
-As Toilsome I Wander’d Virginia’s Woods
+ Wander’d Virginia’s Woods
 
   To the music of rustling leaves kick’d by my feet, (for ’twas autumn,)
   I mark’d at the foot of a tree the grave of a soldier;
@@ -9243,7 +9242,7 @@ As Toilsome I Wander’d Virginia’s Woods
 
 
 
-Not the Pilot
+
 
       though beaten back and many times baffled;
   Not the pathfinder penetrating inland weary and long,
@@ -9256,7 +9255,7 @@ Not the Pilot
 
 
 
-Year That Trembled and Reel’d Beneath Me
+ and Reel’d Beneath Me
 
   Year that trembled and reel’d beneath me!
   Your summer wind was warm enough, yet the air I breathed froze me,
@@ -9363,7 +9362,7 @@ The Wound-Dresser
 
 
 
-Give Me the Splendid Silent Sun
+ Splendid Silent Sun
 
        1
   Give me the splendid silent sun with all his beams full-dazzling,
@@ -9426,7 +9425,7 @@ Give Me the Splendid Silent Sun
 
 
 
-Dirge for Two Veterans
+ Veterans
 
        The last sunbeam
   Lightly falls from the finish’d Sabbath,
@@ -9469,7 +9468,7 @@ Dirge for Two Veterans
 
 
 
-Over the Carnage Rose Prophetic a Voice
+ Rose Prophetic a Voice
 
   Be not dishearten’d, affection shall solve the problems of freedom yet,
   Those who love each other shall become invincible,
@@ -9498,7 +9497,7 @@ Over the Carnage Rose Prophetic a Voice
 
 
 
-I Saw Old General at Bay
+ General at Bay
 
   (Old as he was, his gray eyes yet shone out in battle like stars,)
   His small force was now completely hemm’d in, in his works,
@@ -9557,7 +9556,7 @@ The Artilleryman’s Vision
 
 
 
-Ethiopia Saluting the Colors
+ Colors
 
   With your woolly-white and turban’d head, and bare bony feet?
   Why rising by the roadside here, do you the colors greet?
@@ -9577,7 +9576,7 @@ Ethiopia Saluting the Colors
 
 
 
-Not Youth Pertains to Me
+ to Me
 
   Nor delicatesse, I cannot beguile the time with talk,
   Awkward in the parlor, neither a dancer nor elegant,
@@ -9592,7 +9591,7 @@ Not Youth Pertains to Me
 
 
 
-Race of Veterans
+
 
   Race of veterans--race of victors!
   Race of the soil, ready for conflict--race of the conquering march!
@@ -9603,7 +9602,7 @@ Race of Veterans
 
 
 
-World Take Good Notice
+ Notice
 
   Milky hue ript, wet of white detaching,
   Coals thirty-eight, baleful and burning,
@@ -9624,7 +9623,7 @@ O Tan-Faced Prairie-Boy
 
 
 
-Look Down Fair Moon
+ Moon
 
   Pour softly down night’s nimbus floods on faces ghastly, swollen, purple,
   On the dead on their backs with arms toss’d wide,
@@ -9660,7 +9659,7 @@ Reconciliation
 
 
 
-As I Lay with My Head in Your Lap Camerado
+ with My Head in Your Lap Camerado
 
   The confession I made I resume, what I said to you and the open air
       I resume,
@@ -9695,7 +9694,7 @@ Delicate Cluster
 
 
 
-To a Certain Civilian
+ Civilian
 
   Did you ask dulcet rhymes from me?
   Did you seek the civilian’s peaceful and languishing rhymes?
@@ -9749,7 +9748,7 @@ To a Certain Civilian
 
 
 
-Adieu to a Soldier
+ Soldier
 
   You of the rude campaigning, (which we shared,)
   The rapid march, the life of the camp,
@@ -9770,7 +9769,7 @@ Adieu to a Soldier
 
 
 
-Turn O Libertad
+
 
   From it and all henceforth expanding, doubting no more, resolute,
       sweeping the world,
@@ -9790,7 +9789,7 @@ Turn O Libertad
 
 
 
-To the Leaven’d Soil They Trod
+’d Soil They Trod
 
   (Forth from my tent emerging for good, loosing, untying the tent-ropes,)
   In the freshness the forenoon air, in the far-stretching circuits
@@ -9814,7 +9813,7 @@ To the Leaven’d Soil They Trod
 BOOK XXII.  MEMORIES OF PRESIDENT LINCOLN
 
 
-When Lilacs Last in the Dooryard Bloom’d
+ in the Dooryard Bloom’d
 
        1
   When lilacs last in the dooryard bloom’d,
@@ -10132,7 +10131,7 @@ O Captain! My Captain!
 
 
 
-This Dust Was Once the Man
+ Once the Man
 
   Gentle, plain, just and resolute, under whose cautious hand,
   Against the foulest crime in history known in any land or age,
@@ -10144,7 +10143,7 @@ This Dust Was Once the Man
 BOOK XXIII
 
 
-By Blue Ontario’s Shore
+’s Shore
 
   As I mused of these warlike days and of peace return’d, and the
       dead that return no more,
@@ -10684,7 +10683,7 @@ BOOK XXIV.  AUTUMN RIVULETS
 
 
 
-The Return of the Heroes
+ the Heroes
 
        1
   For the lands and for these passionate days and for myself,
@@ -10857,7 +10856,7 @@ The Return of the Heroes
 
 
 
-There Was a Child Went Forth
+ Child Went Forth
 
   And the first object he look’d upon, that object he became,
   And that object became part of him for the day or a certain part of the day,
@@ -10943,7 +10942,7 @@ Old Ireland
 
 
 
-The City Dead-House
+-House
 
   As idly sauntering wending my way from the clangor,
   I curious pause, for lo, an outcast form, a poor dead prostitute brought,
@@ -11039,7 +11038,7 @@ This Compost
 
 
 
-To a Foil’d European Revolutionaire
+’d European Revolutionaire
  my brother or my sister!
   Keep on--Liberty is to be subserv’d whatever occurs;
   That is nothing that is quell’d by one or two failures, or any
@@ -11138,7 +11137,7 @@ Unnamed Land
 
 
 
-Song of Prudence
+
 
   On Time, Space, Reality--on such as these, and abreast with them Prudence.
 
@@ -11230,7 +11229,7 @@ Song of Prudence
 
 
 
-The Singer in the Prison
+ the Prison
  shame and dole!
           O fearful thought--a convict soul.
 
@@ -11298,7 +11297,7 @@ The Singer in the Prison
 
 
 
-Warble for Lilac-Time
+-Time
 )
   Sort me O tongue and lips for Nature’s sake, souvenirs of earliest summer,
   Gather the welcome signs, (as children with pebbles or stringing shells,)
@@ -11390,7 +11389,7 @@ Warble for Lilac-Time
 
 
 
-Out from Behind This Mask [To Confront a Portrait]
+ This Mask [To Confront a Portrait]
 
        1
   Out from behind this bending rough-cut mask,
@@ -11469,7 +11468,7 @@ Vocalism
 
 
 
-To Him That Was Crucified
+ Was Crucified
 
   Do not mind because many sounding your name do not understand you,
   I do not sound your name, but I understand you,
@@ -11492,7 +11491,7 @@ To Him That Was Crucified
 
 
 
-You Felons on Trial in Courts
+ Trial in Courts
 
   You convicts in prison-cells, you sentenced assassins chain’d and
       handcuff’d with iron,
@@ -11515,7 +11514,7 @@ You Felons on Trial in Courts
 
 
 
-Laws for Creations
+
 
   For strong artists and leaders, for fresh broods of teachers and
       perfect literats for America,
@@ -11537,7 +11536,7 @@ Laws for Creations
 
 
 
-To a Common Prostitute
+ Prostitute
  liberal and
       lusty as Nature,
   Not till the sun excludes you do I exclude you,
@@ -11552,7 +11551,7 @@ To a Common Prostitute
 
 
 
-I Was Looking a Long While
+ a Long While
 
   For a clew to the history of the past for myself, and for these
       chants--and now I have found it,
@@ -11619,7 +11618,7 @@ Miracles
 
 
 
-Sparkles from the Wheel
+ Wheel
 
   Withdrawn I join a group of children watching, I pause aside with them.
 
@@ -11643,7 +11642,7 @@ Sparkles from the Wheel
 
 
 
-To a Pupil
+
 
   Is reform needed? is it through you?
   The greater the reform needed, the greater the Personality you need
@@ -11663,7 +11662,7 @@ To a Pupil
 
 
 
-Unfolded out of the Folds
+ the Folds
  and is
       always to come unfolded,
   Unfolded only out of the superbest woman of the earth is to come the
@@ -11688,7 +11687,7 @@ Unfolded out of the Folds
 
 
 
-What Am I After All
+ After All
  pleas’d with the sound of my own
       name? repeating it over and over;
   I stand apart to hear--it never tires me.
@@ -11722,7 +11721,7 @@ Kosmos
 
 
 
-Others May Praise What They Like
+ What They Like
 
   Others may praise what they like;
   But I, from the banks of the running Missouri, praise nothing in art
@@ -11734,7 +11733,7 @@ Others May Praise What They Like
 
 
 
-Who Learns My Lesson Complete?
+ Lesson Complete?
 
   Who learns my lesson complete?
   Boss, journeyman, apprentice, churchman and atheist,
@@ -11808,7 +11807,7 @@ The Torch
 
 
 
-O Star of France [1870-71]
+ France [1870-71]
 
   The brightness of thy hope and strength and fame,
   Like some proud ship that led the fleet so long,
@@ -11886,7 +11885,7 @@ The Ox-Tamer
 
 
 
-An Old Man’s Thought of School
+’s Thought of School
   [For the Inauguration of a Public School, Camden, New Jersey, 1874]
 
   An old man gathering youthful memories and blooms that youth itself cannot.
@@ -11914,7 +11913,7 @@ An Old Man’s Thought of School
 
 
 
-Wandering at Morn
+
 
   Emerging from the night from gloomy thoughts, thee in my thoughts,
   Yearning for thee harmonious Union! thee, singing bird divine!
@@ -11934,7 +11933,7 @@ Wandering at Morn
 
 
 
-Italian Music in Dakota
+ Dakota
   [“The Seventeenth--the finest Regimental Band I ever heard.”]
 
   Rocks, woods, fort, cannon, pacing sentries, endless wilds,
@@ -11957,7 +11956,7 @@ Italian Music in Dakota
 
 
 
-With All Thy Gifts
+ Gifts
 
   Standing secure, rapidly tending, overlooking the world,
   Power, wealth, extent, vouchsafed to thee--with these and like of
@@ -11982,7 +11981,7 @@ My Picture-Gallery
 
 
 
-The Prairie States
+
 
   Dense, joyous, modern, populous millions, cities and farms,
   With iron interlaced, composite, tied, many in one,
@@ -11996,7 +11995,7 @@ The Prairie States
 BOOK XXV
 
 
-Proud Music of the Storm
+ the Storm
 
        1
   Proud music of the storm,
@@ -12194,7 +12193,7 @@ Proud Music of the Storm
 BOOK XXVI
 
 
-Passage to India
+
 
        1
   Singing my days,
@@ -12506,7 +12505,7 @@ Passage to India
 BOOK XXVII
 
 
-Prayer of Columbus
+
 
   Thrown on this savage shore, far, far from home,
   Pent by the sea and dark rebellious brows, twelve dreary months,
@@ -12869,7 +12868,7 @@ Transpositions
 BOOK XXIX
 
 
-To Think of Time
+ Time
 
       1
   To think of time--of all that retrospection,
@@ -13071,7 +13070,7 @@ To Think of Time
 BOOK XXX.  WHISPERS OF HEAVENLY DEATH
 
 
-Darest Thou Now O Soul
+ O Soul
 
   Walk out with me toward the unknown region,
   Where neither ground is for the feet nor any path to follow?
@@ -13091,7 +13090,7 @@ Darest Thou Now O Soul
 
 
 
-Whispers of Heavenly Death
+ Death
 
   Labial gossip of night, sibilant chorals,
   Footsteps gently ascending, mystical breezes wafted soft and low,
@@ -13108,7 +13107,7 @@ Whispers of Heavenly Death
 
 
 
-Chanting the Square Deific
+ Deific
 
        1
   Chanting the square deific, out of the One advancing, out of the sides,
@@ -13180,7 +13179,7 @@ Chanting the Square Deific
 
 
 
-Of Him I Love Day and Night
+ Love Day and Night
 
   And I dream’d I went where they had buried him I love, but he was
       not in that place,
@@ -13220,7 +13219,7 @@ Of Him I Love Day and Night
 
 
 
-As If a Phantom Caress’d Me
+ Phantom Caress’d Me
 
   I thought I was not alone walking here by the shore;
   But the one I thought was with me as now I walk by the shore, the
@@ -13276,7 +13275,7 @@ Quicksand Years
 
 
 
-That Music Always Round Me
+ Round Me
  yet long
       untaught I did not hear,
   But now the chorus I hear and am elated,
@@ -13296,7 +13295,7 @@ That Music Always Round Me
 
 
 
-What Ship Puzzled at Sea
+ at Sea
  cons for the true reckoning?
   Or coming in, to avoid the bars and follow the channel a perfect
       pilot needs?
@@ -13306,7 +13305,7 @@ What Ship Puzzled at Sea
 
 
 
-A Noiseless Patient Spider
+ Spider
 
   I mark’d where on a little promontory it stood isolated,
   Mark’d how to explore the vacant vast surrounding,
@@ -13330,7 +13329,7 @@ A Noiseless Patient Spider
 
 
 
-To One Shortly to Die
+ to Die
 
   You are to die--let others tell you what they please, I cannot prevaricate,
   I am exact and merciless, but I love you--there is no escape for you.
@@ -13352,7 +13351,7 @@ To One Shortly to Die
 
 
 
-Night on the Prairies
+ Prairies
 
   The supper is over, the fire on the ground burns low,
   The wearied emigrants sleep, wrapt in their blankets;
@@ -13403,7 +13402,7 @@ Thought
 
 
 
-The Last Invocation
+
 
   From the walls of the powerful fortress’d house,
   From the clasp of the knitted locks, from the keep of the well-closed doors,
@@ -13419,7 +13418,7 @@ The Last Invocation
 
 
 
-As I Watch the Ploughman Ploughing
+ the Ploughman Ploughing
 
   Or the sower sowing in the fields, or the harvester harvesting,
   I saw there too, O life and death, your analogies;
@@ -13428,7 +13427,7 @@ As I Watch the Ploughman Ploughing
 
 
 
-Pensive and Faltering
+
 
   The words the Dead I write,
   For living are the Dead,
@@ -13441,7 +13440,7 @@ Pensive and Faltering
 BOOK XXXI
 
 
-Thou Mother with Thy Equal Brood
+ Thy Equal Brood
 
        1
   Thou Mother with thy equal brood,
@@ -13628,7 +13627,7 @@ Thou Mother with Thy Equal Brood
 
 
 
-A Paumanok Picture
+
 
   Ten fishermen waiting--they discover a thick school of mossbonkers
       --they drop the join’d seine-ends in the water,
@@ -13647,7 +13646,7 @@ A Paumanok Picture
 BOOK XXXII.  FROM NOON TO STARRY NIGHT
 
 
-Thou Orb Aloft Full-Dazzling
+ Full-Dazzling
 
   Thou orb aloft full-dazzling! thou hot October noon!
   Flooding with sheeny light the gray beach sand,
@@ -13800,7 +13799,7 @@ Faces
 
 
 
-The Mystic Trumpeter
+
 
        1
   Hark, some wild trumpeter, some strange musician,
@@ -13910,7 +13909,7 @@ The Mystic Trumpeter
 
 
 
-To a Locomotive in Winter
+ in Winter
 
   Thee in the driving storm even as now, the snow, the winter-day declining,
   Thee in thy panoply, thy measur’d dual throbbing and thy beat convulsive,
@@ -14030,7 +14029,7 @@ Mannahatta
 
 
 
-All Is Truth
+
 
   Standing aloof, denying portions so long,
   Only aware to-day of compact all-diffused truth,
@@ -14060,7 +14059,7 @@ All Is Truth
 
 
 
-A Riddle Song
+
 
   Unheard by sharpest ear, unform’d in clearest eye or cunningest mind,
   Nor lore nor fame, nor happiness nor wealth,
@@ -14212,7 +14211,7 @@ Mediums
 
 
 
-By Broad Potomac’s Shore
+’s Shore
 
   (Still uttering, still ejaculating, canst never cease this babble?)
   Again old heart so gay, again to you, your sense, the full flush
@@ -14299,7 +14298,7 @@ Thick-Sprinkled Bunting
 
 
 
-What Best I See in Thee
+ See in Thee
   [To U. S. G. return’d from his World’s Tour]
 
   Is not that where thou mov’st down history’s great highways,
@@ -14317,7 +14316,7 @@ What Best I See in Thee
 
 
 
-Spirit That Form’d This Scene
+’d This Scene
   [Written in Platte Canyon, Colorado]
 
   These tumbled rock-piles grim and red,
@@ -14336,7 +14335,7 @@ Spirit That Form’d This Scene
 
 
 
-As I Walk These Broad Majestic Days
+ These Broad Majestic Days
 
   (For the war, the struggle of blood finish’d, wherein, O terrific Ideal,
   Against vast odds erewhile having gloriously won,
@@ -14367,7 +14366,7 @@ As I Walk These Broad Majestic Days
 
 
 
-A Clear Midnight
+
 
   Away from books, away from art, the day erased, the lesson done,
   Thee fully forth emerging, silent, gazing, pondering the themes thou
@@ -14380,7 +14379,7 @@ A Clear Midnight
 BOOK XXXIII.  SONGS OF PARTING
 
 
-As the Time Draws Nigh
+ Draws Nigh
 
   A dread beyond of I know not what darkens me.
 
@@ -14395,7 +14394,7 @@ As the Time Draws Nigh
 
 
 
-Years of the Modern
+ Modern
 
   Years of the modern! years of the unperform’d!
   Your horizon rises, I see it parting away for more august dramas,
@@ -14442,7 +14441,7 @@ Years of the Modern
 
 
 
-Ashes of Soldiers
+
 
   As I muse retrospective murmuring a chant in thought,
   The war resumes, again to my sense your shapes,
@@ -14559,7 +14558,7 @@ Thoughts
 
 
 
-Song at Sunset
+
 
   Hour prophetic, hour resuming the past,
   Inflating my throat, you divine average,
@@ -14634,7 +14633,7 @@ Song at Sunset
 
 
 
-As at Thy Portals Also Death
+ Portals Also Death
 
   Entering thy sovereign, dim, illimitable grounds,
   To memories of my mother, to the divine blending, maternity,
@@ -14668,7 +14667,7 @@ My Legacy
 
 
 
-Pensive on Her Dead Gazing
+ Dead Gazing
 
   Desperate on the torn bodies, on the forms covering the battlefields gazing,
   (As the last gun ceased, but the scent of the powder-smoke linger’d,)
@@ -14696,7 +14695,7 @@ Pensive on Her Dead Gazing
 
 
 
-Camps of Green
+
 
   When as order’d forward, after a long march,
   Footsore and weary, soon as the light lessens we halt for the night,
@@ -14739,7 +14738,7 @@ Camps of Green
 
 
 
-As They Draw to a Close
+ to a Close
 
   Of what underlies the precedent songs--of my aims in them,
   Of the seed I have sought to plant in them,
@@ -14768,7 +14767,7 @@ As They Draw to a Close
 
 
 
-The Untold Want
+
 
   Now voyager sail thou forth to seek and find.
 
@@ -14790,7 +14789,7 @@ These Carols
 
 
 
-Now Finale to the Shore
+ the Shore
 
   Now land and life finale and farewell,
   Now Voyager depart, (much, much for thee is yet in store,)
@@ -14919,7 +14918,7 @@ Paumanok
 
 
 
-From Montauk Point
+
 
   Eastward the sea absorbing, viewing, (nothing but sea and sky,)
   The tossing waves, the foam, the ships in the distance,
@@ -14930,7 +14929,7 @@ From Montauk Point
 
 
 
-To Those Who’ve Fail’d
+’ve Fail’d
 
   To unnam’d soldiers fallen in front on the lead,
   To calm, devoted engineers--to over-ardent travelers--to pilots on
@@ -14944,7 +14943,7 @@ To Those Who’ve Fail’d
 
 
 
-A Carol Closing Sixty-Nine
+ Sixty-Nine
 
   My lines in joy and hope continuing on the same,
   Of ye, O God, Life, Nature, Freedom, Poetry;
@@ -14960,7 +14959,7 @@ A Carol Closing Sixty-Nine
 
 
 
-The Bravest Soldiers
+
  brave were the soldiers (high named to-day) who lived through
       the fight;
   But the bravest press’d to the front and fell, unnamed, unknown.
@@ -14968,7 +14967,7 @@ The Bravest Soldiers
 
 
 
-A Font of Type
+ Type
 
   Wrath, argument, or praise, or comic leer, or prayer devout,
   (Not nonpareil, brevier, bourgeois, long primer merely,)
@@ -14979,7 +14978,7 @@ A Font of Type
 
 
 
-As I Sit Writing Here
+ Writing Here
 
   Not my least burden is that dulness of the years, querilities,
   Ungracious glooms, aches, lethargy, constipation, whimpering ennui,
@@ -14988,7 +14987,7 @@ As I Sit Writing Here
 
 
 
-My Canary Bird
+
 
   Absorbing deep and full from thoughts, plays, speculations?
   But now from thee to me, caged bird, to feel thy joyous warble,
@@ -14998,7 +14997,7 @@ My Canary Bird
 
 
 
-Queries to My Seventieth Year
+ Seventieth Year
 
   Thou dim, uncertain spectre--bringest thou life or death?
   Strength, weakness, blindness, more paralysis and heavier?
@@ -15009,7 +15008,7 @@ Queries to My Seventieth Year
 
 
 
-The Wallabout Martyrs
+
 
   More, more by far to thee than tomb of Alexander,
   Those cart loads of old charnel ashes, scales and splints of mouldy bones,
@@ -15019,7 +15018,7 @@ The Wallabout Martyrs
 
 
 
-The First Dandelion
+
 
   As if no artifice of fashion, business, politics, had ever been,
   Forth from its sunny nook of shelter’d grass--innocent, golden, calm
@@ -15061,7 +15060,7 @@ To-Day and Thee
 
 
 
-After the Dazzle of Day
+ of Day
 
   Only the dark, dark night shows to my eyes the stars;
   After the clangor of organ majestic, or chorus, or perfect band,
@@ -15073,7 +15072,7 @@ After the Dazzle of Day
 
 
 
-Out of May’s Shows Selected
+’s Shows Selected
  the trees all cover’d with blossoms;
   Wheat fields carpeted far and near in vital emerald green;
   The eternal, exhaustless freshness of each early morning;
@@ -15096,7 +15095,7 @@ Halcyon Days
 
 
 
-FANCIES AT NAVESINK
+
 
    [I]  The Pilot in the Mist
 
@@ -15252,7 +15251,7 @@ FANCIES AT NAVESINK
 
 
 
-Death of General Grant
+ Grant
 
   From that great play on history’s stage eterne,
   That lurid, partial act of war and peace--of old and new contending,
@@ -15299,7 +15298,7 @@ Red Jacket (From Aloft)
 
 
 
-Of That Blithe Throat of Thine
+ Throat of Thine
 
   I’ll mind the lesson, solitary bird--let me too welcome chilling drifts,
   E’en the profoundest chill, as now--a torpid pulse, a brain unnerv’d,
@@ -15331,7 +15330,7 @@ Broadway
 
 
 
-To Get the Final Lilt of Songs
+ Final Lilt of Songs
 
   To penetrate the inmost lore of poets--to know the mighty ones,
   Job, Homer, Eschylus, Dante, Shakespere, Tennyson, Emerson;
@@ -15343,7 +15342,7 @@ To Get the Final Lilt of Songs
 
 
 
-Old Salt Kossabone
+
 
   Old Salt Kossabone, I’ll tell you how he died:
   (Had been a sailor all his life--was nearly 90--lived with his
@@ -15368,7 +15367,7 @@ Old Salt Kossabone
 
 
 
-The Dead Tenor
+
 
   With Spanish hat and plumes, and gait inimitable,
   Back from the fading lessons of the past, I’d call, I’d tell and own,
@@ -15452,7 +15451,7 @@ Life
 
 
 
-Small the Theme of My Chant
+ of My Chant
  One’s-Self--
       a simple, separate person. That, for the use of the New World, I sing.
   Man’s physiology complete, from top to toe, I sing. Not physiognomy alone,
@@ -15481,7 +15480,7 @@ True Conquerors
 
 
 
-The United States to Old World Critics
+ to Old World Critics
 
   Wealth, order, travel, shelter, products, plenty;
   As of the building of some varied, vast, perpetual edifice,
@@ -15491,7 +15490,7 @@ The United States to Old World Critics
 
 
 
-The Calming Thought of All
+ of All
 
   Amid the changing schools, theologies, philosophies,
   Amid the bawling presentations new and old,
@@ -15500,7 +15499,7 @@ The Calming Thought of All
 
 
 
-Thanks in Old Age
+ Age
 
   For health, the midday sun, the impalpable air--for life, mere life,
   For precious ever-lingering memories, (of you my mother dear--you,
@@ -15526,7 +15525,7 @@ Thanks in Old Age
 
 
 
-Life and Death
+
 
   Close home, elusive, present, baffled, grappled.
   By each successive age insoluble, pass’d on,
@@ -15535,7 +15534,7 @@ Life and Death
 
 
 
-The Voice of the Rain
+ the Rain
 
   Which, strange to tell, gave me an answer, as here translated:
   I am the Poem of Earth, said the voice of the rain,
@@ -15552,7 +15551,7 @@ The Voice of the Rain
 
 
 
-Soon Shall the Winter’s Foil Be Here
+ Winter’s Foil Be Here
 
   Soon shall the winter’s foil be here;
   Soon shall these icy ligatures unbind and melt--A little while,
@@ -15573,7 +15572,7 @@ Soon Shall the Winter’s Foil Be Here
 
 
 
-While Not the Past Forgetting
+ Past Forgetting
 
   To-day, at least, contention sunk entire--peace, brotherhood uprisen;
   For sign reciprocal our Northern, Southern hands,
@@ -15584,7 +15583,7 @@ While Not the Past Forgetting
 
 
 
-The Dying Veteran
+
 
   Amid the current songs of beauty, peace, decorum,
   I cast a reminiscence--(likely ’twill offend you,
@@ -15618,7 +15617,7 @@ Stronger Lessons
 
 
 
-A Prairie Sunset
+
 
   The earth’s whole amplitude and Nature’s multiform power consign’d
       for once to colors;
@@ -15649,7 +15648,7 @@ Twenty Years
 
 
 
-Orange Buds by Mail from Florida
+ Mail from Florida
 
   Proof of this present time, and thee, thy broad expanse, America,
   To my plain Northern hut, in outside clouds and snow,
@@ -15670,7 +15669,7 @@ Twilight
 
 
 
-You Lingering Sparse Leaves of Me
+ Leaves of Me
 
   And I some well-shorn tree of field or orchard-row;
   You tokens diminute and lorn--(not now the flush of May, or July
@@ -15691,7 +15690,7 @@ You Lingering Sparse Leaves of Me
 
 
 
-The Dead Emperor
+
 
   Less for the mighty crown laid low in sorrow--less for the Emperor,
   Thy true condolence breathest, sendest out o’er many a salt sea mile,
@@ -15700,7 +15699,7 @@ The Dead Emperor
 
 
 
-As the Greek’s Signal Flame
+’s Signal Flame
 
   Rose from the hill-top, like applause and glory,
   Welcoming in fame some special veteran, hero,
@@ -15711,7 +15710,7 @@ As the Greek’s Signal Flame
 
 
 
-The Dismantled Ship
+
 
   On sluggish, lonesome waters, anchor’d near the shore,
   An old, dismasted, gray and batter’d ship, disabled, done,
@@ -15741,7 +15740,7 @@ The Dismantled Ship
 
 
 
-An Evening Lull
+
 
   Unrest and pain, and feverish heat,
   Toward the ending day a calm and lull comes on,
@@ -15764,7 +15763,7 @@ Old Age’s Lambent Peaks
 
 
 
-After the Supper and Talk
+ and Talk
 
   As a friend from friends his final withdrawal prolonging,
   Good-bye and Good-bye with emotional lips repeating,
@@ -15799,7 +15798,7 @@ BOOKXXXV.  GOOD-BYE MY FANCY
 
 
 
-Lingering Last Drops
+
 
   And whence and why come you?
 )
@@ -15841,7 +15840,7 @@ Good-Bye My Fancy
 
 
 
-MY 71st Year
+
 
   With all their chances, changes, losses, sorrows,
   My parents’ deaths, the vagaries of my life, the many tearing
@@ -15865,7 +15864,7 @@ Apparitions
 
 
 
-The Pallid Wreath
+
 
   Let it remain back there on its nail suspended,
   With pink, blue, yellow, all blanch’d, and the white now gray and ashy,
@@ -15881,7 +15880,7 @@ The Pallid Wreath
 
 
 
-An Ended Day
+
 
   The pomp and hurried contest-glare and rush are done;
   Now triumph! transformation! jubilate!
@@ -15903,7 +15902,7 @@ Old Age’s Ship & Crafty Death’s
 
 
 
-To the Pending Year
+ Year
 
   Have I no weapon-word for thee--some message brief and fierce?
   (Have I fought out and done indeed the battle?) Is there no shot left,
@@ -15959,7 +15958,7 @@ Interpolation Sounds
 
 
 
-To the Sun-Set Breeze
+-Set Breeze
 
   Where late this heated day thou enterest at my window, door,
   Thou, laving, tempering all, cool-freshing, gently vitalizing
@@ -16019,7 +16018,7 @@ Old Chants
 
 
 
-A Christmas Greeting
+
  Brazilian brother--thy ample place is ready;
   A loving hand--a smile from the north--a sunny instant hall!
   (Let the future care for itself, where it reveals its troubles,
@@ -16036,7 +16035,7 @@ A Christmas Greeting
 
 
 
-Sounds of the Winter
+ Winter
 
   Sunshine upon the mountains--many a distant strain
   From cheery railroad train--from nearer field, barn, house,
@@ -16048,7 +16047,7 @@ Sounds of the Winter
 
 
 
-A Twilight Song
+
 
   Musing on long-pass’d war-scenes--of the countless buried unknown
       soldiers,
@@ -16076,7 +16075,7 @@ A Twilight Song
 
 
 
-When the Full-Grown Poet Came
+-Grown Poet Came
 
   Out spake pleased Nature (the round impassive globe, with all its
       shows of day and night,) saying, He is mine;
@@ -16110,7 +16109,7 @@ Osceola
 
 
 
-A Voice from Death
+ Death
 
   With sudden, indescribable blow--towns drown’d--humanity by
       thousands slain,
@@ -16161,7 +16160,7 @@ A Voice from Death
 
 
 
-A Persian Lesson
+
 
   In the fresh scent of the morning in the open air,
   On the slope of a teeming Persian rose-garden,
@@ -16270,7 +16269,7 @@ The Unexpress’d
 
 
 
-Grand Is the Seen
+ Seen
 
   Grand is the earth, and grand are lasting time and space,
   And grand their laws, so multiform, puzzling, evolutionary;
@@ -16327,40 +16326,40 @@ Good-Bye My Fancy!
 *** END OF THIS PROJECT GUTENBERG EBOOK LEAVES OF GRASS ***
 
 ***** This file should be named 1322.txt or 1322.zip *****
-This and all associated files of various formats will be found in:
+ associated files of various formats will be found in:
         http://www.gutenberg.org/1/3/2/1322/
 
-Produced by G. Fuhrman
+. Fuhrman
 
-Updated editions will replace the previous one--the old editions
-will be renamed.
+ replace the previous one--the old editions
+.
 
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
+ from public domain print editions means that no
+ United States copyright in these works, so the Foundation
 (and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
+ paying copyright royalties.  Special rules,
+ the General Terms of Use part of this license, apply to
+ Project Gutenberg-tm electronic works to
+ GUTENBERG-tm concept and trademark.  Project
+ registered trademark, and may not be used if you
+ eBooks, unless you receive specific permission.  If you
+ anything for copies of this eBook, complying with the
+ easy.  You may use this eBook for nearly any purpose
+ of derivative works, reports, performances and
 research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
+ public domain eBooks.  Redistribution is
+ trademark license, especially commercial
 redistribution.
 
 
 
 *** START: FULL LICENSE ***
 
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+ GUTENBERG LICENSE
+ BEFORE YOU DISTRIBUTE OR USE THIS WORK
 
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
+ Project Gutenberg-tm mission of promoting the free
+ works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
 Gutenberg”), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
@@ -16372,111 +16371,111 @@ electronic works
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
 electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
+ the terms of this license and intellectual property
 (trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
+ this agreement, you must cease using and return or destroy
+ Project Gutenberg-tm electronic works in your possession.
+ a fee for obtaining a copy of or access to a Project
 Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
+ agreement, you may obtain a refund from the person or
+ you paid the fee as set forth in paragraph 1.E.8.
 
 1.B.  "Project Gutenberg” is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
+ associated in any way with an electronic work by people who
+ bound by the terms of this agreement.  There are a few
+ can do with most Project Gutenberg-tm electronic works
+ with the full terms of this agreement.  See
 paragraph 1.C below.  There are a lot of things you can do with Project
 Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
+ free future access to Project Gutenberg-tm electronic
 works.  See paragraph 1.E below.
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation”
 or PGLAF), owns a compilation copyright in the collection of Project
 Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
+ the public domain in the United States.  If an
+ in the public domain in the United States and you are
+ United States, we do not claim a right to prevent you from
 copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
+ the work as long as all references to Project Gutenberg
 are removed.  Of course, we hope that you will support the Project
 Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
+ Gutenberg-tm works in compliance with the terms of
+ keeping the Project Gutenberg-tm name associated with
 the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
+ in the same format with its attached full Project
 Gutenberg-tm License when you share it without charge with others.
 
 1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
+ do with this work.  Copyright laws in most countries are in
+ of change.  If you are outside the United States, check
+ your country in addition to the terms of this agreement
 before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
+ based on this work or any other Project
 Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
+ of any work in any country outside the United
 States.
 
 1.E.  Unless you have removed all references to Project Gutenberg:
 
 1.E.1.  The following sentence, with active links to, or other immediate
 access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
+ of a Project Gutenberg-tm work (any work on which the
 phrase "Project Gutenberg” appears, or with which the phrase "Project
 Gutenberg” is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
+:
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
+ for the use of anyone anywhere at no cost and with
+ whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+ or online at www.gutenberg.org
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
+ domain (does not contain a notice indicating that it is
+ of the copyright holder), the work can be copied
+ anyone in the United States without paying any fees
 or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg” associated with or appearing on the
+ "Project Gutenberg” associated with or appearing on the
 work, you must comply either with the requirements of paragraphs 1.E.1
 through 1.E.7 or obtain permission for the use of the work and the
 Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 1.E.9.
 
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
+ of the copyright holder, your use and distribution
+ both paragraphs 1.E.1 through 1.E.7 and any additional
+ the copyright holder.  Additional terms will be linked
+ Gutenberg-tm License for all works posted with the
+ copyright holder found at the beginning of this work.
 
 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
+ this work, or any files containing a part of this
+ other work associated with Project Gutenberg-tm.
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
+ sentence set forth in paragraph 1.E.1 with
+ immediate access to the full terms of the Project
 Gutenberg-tm License.
 
 1.E.6.  You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
+ hypertext form.  However, if you provide access to or
+ a Project Gutenberg-tm work in a format other than
 "Plain Vanilla ASCII” or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+ official Project Gutenberg-tm web site (www.gutenberg.org),
 you must, at no additional cost, fee or expense to the user, provide a
 copy, a means of exporting a copy, or a means of obtaining a copy upon
 request, of the work in its original "Plain Vanilla ASCII” or other
 form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
+ in paragraph 1.E.1.
 
 1.E.7.  Do not charge a fee for access to, viewing, displaying,
 performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
+ with paragraph 1.E.8 or 1.E.9.
 
 1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
+ distributing Project Gutenberg-tm electronic works provided
 that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
@@ -16509,17 +16508,17 @@ that
      distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
+ group of works on different terms than are set
+ agreement, you must obtain permission in writing from
+ Gutenberg Literary Archive Foundation and Michael
 Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
+ forth in Section 3 below.
 
 1.F.
 
 1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
+, do copyright research on, transcribe and proofread
+ in creating the Project Gutenberg-tm
 collection.  Despite these efforts, Project Gutenberg-tm electronic
 works, and the medium on which they may be stored, may contain
 "Defects,” such as, but not limited to, incomplete, inaccurate or
@@ -16529,53 +16528,53 @@ computer virus, or computer codes that damage or cannot be read by
 your equipment.
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
+ Refund” described in paragraph 1.F.3, the Project
+ Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
 Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
+ for damages, costs and expenses, including legal
 fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
 LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+ F3.  YOU AGREE THAT THE FOUNDATION, THE
 TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+ FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+ IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 DAMAGE.
 
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
+ electronic work within 90 days of receiving it, you can
+ of the money (if any) you paid for it by sending a
+ the person you received the work from.  If you
+ on a physical medium, you must return the medium with
+.  The person or entity that provided you with
+ may elect to provide a replacement copy in lieu of a
 refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
+ you may choose to give you a second opportunity to
+ electronically in lieu of a refund.  If the second copy
+, you may demand a refund in writing without further
+ the problem.
 
 1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+ KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+ OR FITNESS FOR ANY PURPOSE.
 
 1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
+ exclusion or limitation of certain types of damages.
+ or limitation set forth in this agreement violates the
+ state applicable to this agreement, the agreement shall be
+ the maximum disclaimer or limitation permitted by
+ law.  The invalidity or unenforceability of any
+ agreement shall not void the remaining provisions.
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+ Project Gutenberg-tm electronic works in accordance
+, and any volunteers associated with the production,
+ of Project Gutenberg-tm electronic works,
+ liability, costs and expenses, including legal fees,
+ or indirectly from any of the following which you do
+ occur: (a) distribution of this or any Project Gutenberg-tm
 work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
@@ -16583,103 +16582,103 @@ Project Gutenberg-tm work, and (c) any Defect you cause.
 Section  2.  Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
+ formats readable by the widest variety of computers
 including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
+ efforts of hundreds of volunteers and donations from
+ walks of life.
 
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm’s
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
+ support to provide volunteers with the
+, is critical to reaching Project Gutenberg-tm’s
+ that the Project Gutenberg-tm collection will
+ for generations to come.  In 2001, the Project
+ Foundation was created to provide a secure
+ for Project Gutenberg-tm and future generations.
+ about the Project Gutenberg Literary Archive Foundation
+ efforts and donations can help, see Sections 3 and 4
+ web page at http://www.pglaf.org.
 
 
 Section 3.  Information about the Project Gutenberg Literary Archive
 Foundation
 
-The Project Gutenberg Literary Archive Foundation is a non profit
+ Literary Archive Foundation is a non profit
 501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
+ and granted tax exempt status by the Internal
 Revenue Service.  The Foundation’s EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
+-6221541.  Its 501(c)(3) letter is posted at
 http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state’s laws.
+ are tax deductible to the full extent
+.S. federal laws and your state’s laws.
 
 The Foundation’s principal office is located at 4557 Melan Dr. S.
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+.  Its business office is located at
+ West, Salt Lake City, UT 84116, (801) 596-1887, email
 business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation’s web site and official
-page at http://pglaf.org
+ found at the Foundation’s web site and official
+://pglaf.org
 
-For additional contact information:
+ information:
      Dr. Gregory B. Newby
      Chief Executive and Director
      gbnewby@pglaf.org
 
 
 Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
+
 
 Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
+ and donations to carry out its mission of
+ of public domain and licensed works that can be
+ machine readable form accessible by the widest
+ including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
+ IRS.
 
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
+ committed to complying with the laws regulating
+ donations in all 50 states of the United
 States.  Compliance requirements are not uniform and it takes a
 considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
+.  We do not solicit donations in locations
+ not received written confirmation of compliance.  To
+ determine the status of compliance for any
+ http://pglaf.org
 
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
+ and do not solicit contributions from states where we
+ the solicitation requirements, we know of no prohibition
+ donations from donors in such states who
+ offers to donate.
 
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
+ gratefully accepted, but we cannot make
+ tax treatment of donations received from
+ States.  U.S. laws alone swamp our small staff.
 
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
+ Project Gutenberg Web pages for current donation
+.  Donations are accepted in a number of other
+, online payments and credit card donations.
 To donate, please visit: http://pglaf.org/donate
 
 
 Section 5.  General Information About Project Gutenberg-tm electronic
 works.
 
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
+. Hart is the originator of the Project Gutenberg-tm
+ library of electronic works that could be freely shared
 with anyone.  For thirty years, he produced and distributed Project
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
 
 Project Gutenberg-tm eBooks are often created from several printed
 editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
+ notice is included.  ThFus, we do not necessarily
+ compliance with any particular paper edition.
 
 
-Most people start at our Web site which has the main PG search facility:
+ at our Web site which has the main PG search facility:
 
      http://www.gutenberg.org
 
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
+ includes information about Project Gutenberg-tm,
+ make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+ email newsletter to hear about new eBooks.
