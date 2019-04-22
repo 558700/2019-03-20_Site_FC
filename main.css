@@ -6,6 +6,13 @@ body {
   color: darkslategray;
 }
 
+h1 {
+  font-weight: 700;
+  font-style: italic;
+  font-size: 70px;
+  color: firebrick;
+  margin: 0px;
+}
 /* CAROUSEL STUFF */
 
 #carousel {
