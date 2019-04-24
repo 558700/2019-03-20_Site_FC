@@ -29,22 +29,26 @@ function carouselFwd(arr) {
 }
 // CAROUSEL ENDS
 
+// START BODY STUFF
+let whitman = document.getElementById("whitman");
+// END BODY STUFF
+
+
 // VERSES BEGIN
 let verses, titles, struct;
 function loadDataset(requestURL) {
   let request = new XMLHttpRequest();
   request.open('GET', requestURL);
-  console.log("works");
   request.responseType = 'json';
   request.send();
   request.onload = function() {
     let res = request.response;
-    console.log("res loaded", res);
     verses = res.verses;
     titles = res.titles;
-    titles = titles.map(a => a.toUpperCase())
-    struct = fyShuffle(formStructure())
+    titles = titles.map(a => a.toUpperCase());
+    struct = fyShuffle(formStructure());
     // insert layout function here
+    setLayout();
   }
 }
 function chooseRandom(min,max) {
@@ -96,9 +100,23 @@ function formStructure() {
   return res
 }
 function setLayout() {
+  for (i = 0; i < struct.length; i++) {
+    let el = struct[i];
+    let p = document.createElement("p");
+    let img = document.createElement("img");
+    let h1 = document.createElement("h1");
+    if (el.indexOf(".jpg") != -1) {
+      img.className = "poemImg";
+      img.src = el;
+      whitman.appendChild(img);
+    } else if (el === el.toUpperCase()) {
+      h1.textContent = el.toLowerCase();
+      whitman.appendChild(h1);
+    }
+    else {
+      p.textContent = el;
+      whitman.appendChild(p);
+    }
+  }
 }
-
-
-
-
 loadDataset("txt/whitman.json");

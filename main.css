@@ -104,3 +104,46 @@ h2 {
     grid-template-columns: 20vw 1fr 20vw;
   }
 }
+
+/* WHITMAN */
+#whitman {
+  display: grid;
+  grid-template-columns: 5vw 1fr 5vw;
+  border: thick solid firebrick;
+  padding: 5vw;
+  align-items: center;
+  justify-items: center;
+}
+
+#whitman img {
+  overflow: hidden;
+  object-fit: cover;
+  height: 200px;
+  width: 200px;
+}
+
+#whitman p, #whitman img, #whitman h1 {
+  grid-column: 2;
+}
+
+#whitman h1 {
+  text-align: center;
+  font-size: 60px;
+  font-style: italic;
+  font-weight: 100;
+}
+
+@media (min-width: 900px) {
+  #whitman {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+  }
+  #whitman p, #whitman img {
+    grid-column: auto / span 1;
+  }
+  #whitman h1 {
+    grid-column: auto / span 2;
+  }
+}
