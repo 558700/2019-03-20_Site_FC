@@ -61,7 +61,6 @@ function arrayPicker(arr) {
 function fyShuffle(arr) {
   // fisher-yates shuffle implementation
   // https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle
-  console.log("--");
   let newArr = new Array;
   for (let i = arr.length; i > 0; i --) {
     let k = chooseRandom(0,arr.length);
@@ -78,7 +77,6 @@ function formStructure() {
   }
   let count = 3;
   for (i = 0; i < 6; i++) {
-    console.log(count);
     if (count === 8) {
       res.push(arrayPicker(sources))
       break;
@@ -106,17 +104,27 @@ function setLayout() {
     let img = document.createElement("img");
     let h1 = document.createElement("h1");
     if (el.indexOf(".jpg") != -1) {
-      img.className = "poemImg";
+      img.className = "whitman" + String(i);
+      img.className += " boxImg";
       img.src = el;
       whitman.appendChild(img);
     } else if (el === el.toUpperCase()) {
+      h1.className = "whitman" + String(i);
       h1.textContent = el.toLowerCase();
       whitman.appendChild(h1);
     }
     else {
       p.textContent = el;
+      p.className = "whitman" + String(i);
       whitman.appendChild(p);
     }
   }
 }
+function whitmanGen() {
+  while (whitman.firstChild) {
+    whitman.removeChild(whitman.firstChild);
+  };
+  loadDataset("txt/whitman.json");
+}
+
 loadDataset("txt/whitman.json");
