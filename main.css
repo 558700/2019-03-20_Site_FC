@@ -80,7 +80,7 @@ li img {
   display: grid;
   align-items: center;
   grid-template-columns: 1fr;
-  grid-template-rows: 1fr 33vh;
+  grid-template-rows: 1fr 10vw;
 }
 #carousel {
   display: grid;
@@ -176,7 +176,7 @@ li img {
 
 #whitmanContainer h2 {
   grid-column: 2;
-  font-size: 100px;
+  font-size: 4em;
   font-weight: 100;
   margin: 0px;
 }
