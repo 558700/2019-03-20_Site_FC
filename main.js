@@ -23,6 +23,12 @@ assign();
 img0.addEventListener("click", () => {
     carouselFwd(sources);
 });
+img1.addEventListener("click", () => {
+    carouselFwd(sources);
+});
+img2.addEventListener("click", () => {
+    carouselFwd(sources);
+});
 function carouselFwd(arr) {
     arr.push(arr.shift());
     assign();
