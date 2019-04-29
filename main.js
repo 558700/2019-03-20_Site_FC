@@ -132,5 +132,57 @@ function whitmanGen() {
   };
   loadDataset("txt/whitman.json");
 }
-
 loadDataset("txt/whitman.json");
+// VERSES END
+
+// COLLAPSE START
+
+function toggler(group, toggle) {
+  let isHid = group.style.cssText;
+  if (isHid === "display: block;") {
+    group.style.cssText = "display: none;"
+    toggle.style.cssText = "transform: rotate(0deg);"
+  } else {
+    group.style.cssText = "display: block;"
+    toggle.style.cssText = "transform: rotate(90deg);"
+  }
+}
+let collapseTog1 = document.getElementById("collapseTog1");
+let collapseHed1 = document.getElementById("collapseHed1");
+let collapseGroup1 = document.getElementById("collapseGroup1");
+collapseTog1.addEventListener("click", () => {
+    toggler(collapseGroup1, collapseTog1);
+});
+collapseHed1.addEventListener("click", () => {
+    toggler(collapseGroup1, collapseTog1);
+});
+
+let collapseTog2 = document.getElementById("collapseTog2");
+let collapseHed2 = document.getElementById("collapseHed2");
+let collapseGroup2 = document.getElementById("collapseGroup2");
+collapseTog2.addEventListener("click", () => {
+    toggler(collapseGroup2, collapseTog2);
+});
+collapseHed2.addEventListener("click", () => {
+    toggler(collapseGroup2, collapseTog2);
+});
+
+let collapseTog3 = document.getElementById("collapseTog3");
+let collapseHed3 = document.getElementById("collapseHed3");
+let collapseGroup3 = document.getElementById("collapseGroup3");
+collapseTog3.addEventListener("click", () => {
+    toggler(collapseGroup3, collapseTog3);
+});
+collapseHed3.addEventListener("click", () => {
+    toggler(collapseGroup3, collapseTog3);
+});
+
+let collapseTog4 = document.getElementById("collapseTog4");
+let collapseHed4 = document.getElementById("collapseHed4");
+let collapseGroup4 = document.getElementById("collapseGroup4");
+collapseTog4.addEventListener("click", () => {
+    toggler(collapseGroup4, collapseTog4);
+});
+collapseHed4.addEventListener("click", () => {
+    toggler(collapseGroup4, collapseTog4);
+});
