@@ -162,20 +162,24 @@ li img {
 
 .mainBio p a, .collapseToggle {
   color: firebrick;
-  font-size: 50px;
   align-self: center;
-  font-weight: 100;
-  font-style: italic;
 }
+
+
 .collapseToggle {
+  font-size: 50px;
   grid-column: 1;
   justify-self: right;
   cursor: pointer;
   margin: 0 2vw 0 0;
+  font-weight: 100;
+  font-style: italic;
 }
 
 .collapseGroup {
   display: none;
+  border: thin dotted firebrick;
+  padding: 2vw;
 }
 
 .mainBio h3 {

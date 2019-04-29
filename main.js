@@ -147,6 +147,17 @@ function toggler(group, toggle) {
     toggle.style.cssText = "transform: rotate(90deg);"
   }
 }
+
+let collapseTog0 = document.getElementById("collapseTog0");
+let collapseHed0 = document.getElementById("collapseHed0");
+let collapseGroup0 = document.getElementById("collapseGroup0");
+collapseTog0.addEventListener("click", () => {
+    toggler(collapseGroup0, collapseTog0);
+});
+collapseHed0.addEventListener("click", () => {
+    toggler(collapseGroup0, collapseTog0);
+});
+
 let collapseTog1 = document.getElementById("collapseTog1");
 let collapseHed1 = document.getElementById("collapseHed1");
 let collapseGroup1 = document.getElementById("collapseGroup1");
@@ -175,14 +186,4 @@ collapseTog3.addEventListener("click", () => {
 });
 collapseHed3.addEventListener("click", () => {
     toggler(collapseGroup3, collapseTog3);
-});
-
-let collapseTog4 = document.getElementById("collapseTog4");
-let collapseHed4 = document.getElementById("collapseHed4");
-let collapseGroup4 = document.getElementById("collapseGroup4");
-collapseTog4.addEventListener("click", () => {
-    toggler(collapseGroup4, collapseTog4);
-});
-collapseHed4.addEventListener("click", () => {
-    toggler(collapseGroup4, collapseTog4);
 });
