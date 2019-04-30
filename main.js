@@ -17,8 +17,6 @@ let sources = [
     "img/15.jpg",
     "img/16.jpg",
     "img/17.jpg",
-    "img/18.jpg",
-    "img/19.jpg",
     "img/20.jpg",
     "img/21.jpg",
     "img/22.jpg",
@@ -27,7 +25,12 @@ let sources = [
     "img/25.jpg",
     "img/26.jpg",
     "img/27.jpg",
-    "img/28.jpg"
+    "img/28.jpg",
+    "img/29.jpg",
+    "img/30.jpg",
+    "img/vierkant.jpg",
+    "img/sekula.jpg",
+    "img/rozendaal.gif"
 ];
 function assign() {
     img0.src = sources[0];
