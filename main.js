@@ -43,6 +43,11 @@ let img1 = document.getElementById("img1");
 let img2 = document.getElementById("img2");
 
 assign();
+setTimeout(function slider(){
+  console.log('2ow')
+  carouselFwd(sources);
+  setTimeout(slider, 2000)
+},2000)
 
 img0.addEventListener("click", () => {
     carouselFwd(sources);
