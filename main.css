@@ -6,6 +6,15 @@ body {
   font-size: 20px;
 }
 
+p {
+  background-color: aliceblue;
+  border: 2vw solid aliceblue;
+}
+
+ul {
+  background-color: aliceblue;
+}
+
 h1 {
   font-weight: 700;
   font-style: italic;
@@ -36,6 +45,12 @@ img {
   object-fit: cover;
   height: 200px;
   width: 200px;
+}
+
+#meImg {
+  clear: both;
+  justify-self: center;
+  border: 10px solid aliceblue;
 }
 
 /* li stuff */
@@ -120,6 +135,7 @@ li img {
   width: inherit;
   object-fit: cover;
   cursor: pointer;
+  border: 7px solid aliceblue;
 }
 
 #carousel img:hover {
@@ -168,12 +184,12 @@ li img {
 
 .collapseToggle {
   font-size: 50px;
-  grid-column: 1;
-  justify-self: right;
+  grid-column: 2;
   cursor: pointer;
   margin: 0 2vw 0 0;
   font-weight: 100;
   font-style: italic;
+  display: none;
 }
 
 .collapseGroup {
@@ -191,6 +207,10 @@ li img {
   .mainBio {
     grid-template-columns: 20vw 1fr 20vw;
   }
+  .collapseToggle {
+    grid-column: 1;
+    justify-self: right;
+  }
 }
 
 /* WHITMAN */
@@ -205,9 +225,11 @@ li img {
   font-size: 4em;
   font-weight: 100;
   margin: 0px;
+  background-color: aliceblue;
 }
 
 #whitmanContainer h2, #whitmanContainer h3 {
+  border: 2vw solid aliceblue;
   grid-column: 2/4;
   justify-self: center;
   align-self: center;
@@ -223,6 +245,7 @@ li img {
   grid-row-gap: 2vw;
   padding: 2vw 0 2vw 0;
   margin: 0vw 0vw 2vw 0vw;
+  background-color: aliceblue;
 }
 
 
