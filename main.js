@@ -36,11 +36,14 @@ function assign() {
     img0.src = sources[0];
     img1.src = sources[1];
     img2.src = sources[2];
+    document.body.style.cssText = `background-image: url("`+ sources[0]+ `")`;
 }
 let img0 = document.getElementById("img0");
 let img1 = document.getElementById("img1");
 let img2 = document.getElementById("img2");
+
 assign();
+
 img0.addEventListener("click", () => {
     carouselFwd(sources);
 });
