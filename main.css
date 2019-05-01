@@ -222,15 +222,32 @@ li a {
   grid-column: 2;
   cursor: pointer;
   margin: 0 2vw 0 0;
-  font-weight: 100;
+  font-weight: 700;
   font-style: italic;
+  background-color: firebrick;
+  color: aliceblue;
   display: none;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 
 .collapseGroup {
   display: none;
   border: thin dotted firebrick;
   padding: 2vw;
+}
+
+#collapseHed0, #collapseHed1, #collapseHed2, #collapseHed3 {
+    justify-self: center;
+    text-align: center;
+    font-size: 2em;
+}
+
+#collapseHed0:hover, #collapseHed1:hover, #collapseHed2:hover, #collapseHed3:hover {
+  background-color: firebrick;
+  cursor: pointer;
+  color: aliceblue;
+  border-color: firebrick;
 }
 
 .mainBio h3 {
@@ -245,6 +262,7 @@ li a {
   .collapseToggle {
     grid-column: 1;
     justify-self: right;
+    display: block;
   }
 }
 
