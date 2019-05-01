@@ -54,7 +54,6 @@ img {
 }
 
 /* li stuff */
->
 li {
   display: flex;
   /* justify-content: space-between; */
@@ -71,12 +70,14 @@ li div {
   flex-direction: column;
 }
 
-li img {
+li a {
   flex-shrink: 0;
+  align-self: center;
 }
 
 @media (min-width: 750px) {
   li {
+    display: flex;
     flex-wrap: nowrap;
     justify-content: flex-start;
     flex-direction: row;
