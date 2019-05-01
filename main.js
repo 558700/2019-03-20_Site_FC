@@ -194,7 +194,7 @@ function toggler(group, toggle) {
     group.style.cssText = "display: none;"
     toggle.style.cssText = "transform: rotate(0deg);"
   } else {
-    group.style.cssText = "display: grid;"
+    group.style.cssText = "display: block;"
     toggle.style.cssText = "transform: rotate(90deg);"
   }
 }
@@ -214,6 +214,7 @@ let collapseHed1 = document.getElementById("collapseHed1");
 let collapseGroup1 = document.getElementById("collapseGroup1");
 collapseTog1.addEventListener("click", () => {
     toggler(collapseGroup1, collapseTog1);
+
 });
 collapseHed1.addEventListener("click", () => {
     toggler(collapseGroup1, collapseTog1);
