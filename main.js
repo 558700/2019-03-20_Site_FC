@@ -42,12 +42,40 @@ let img0 = document.getElementById("img0");
 let img1 = document.getElementById("img1");
 let img2 = document.getElementById("img2");
 
+
+let paused = false;
+let pausePlay = document.getElementById("pausePlay");
+
+function timer() {
+  setTimeout(function slider(){
+    if (paused == true) {
+      console.log("triggeredPause")
+    }
+    carouselFwd(sources);
+    if (paused !== true) {
+      setTimeout(slider, 500)
+    }
+  },500)
+}
+
+pausePlay.addEventListener("click", () => {
+  if (paused === true) {
+    paused = false
+    console.log("paused");
+    timer();
+    pausePlay.textContent = "stop";
+  } else {
+    paused = true;
+    pausePlay.textContent = "play";
+  }
+});
+
+timer();
 assign();
-setTimeout(function slider(){
-  console.log('2ow')
-  carouselFwd(sources);
-  setTimeout(slider, 2000)
-},2000)
+
+let leftNav = document.getElementById("leftNav");
+let rightNav = document.getElementById("rightNav");
+
 
 img0.addEventListener("click", () => {
     carouselFwd(sources);
@@ -58,10 +86,36 @@ img1.addEventListener("click", () => {
 img2.addEventListener("click", () => {
     carouselFwd(sources);
 });
+leftNav.addEventListener("click", () => {
+    carouselBwd(sources);
+});
+rightNav.addEventListener("click", () => {
+    carouselFwd(sources);
+});
 function carouselFwd(arr) {
     arr.push(arr.shift());
     assign();
 }
+
+function carouselBwd(arr) {
+    arr.unshift(arr.pop());
+    assign();
+}
+
+
+document.addEventListener('keydown', logKey);
+
+function logKey(k = k.code) {
+  k = k.key
+  if (k === "ArrowRight") {
+    carouselFwd(sources);
+  }
+  if (k === "ArrowLeft") {
+    carouselBwd(sources);
+  }
+}
+
+
 // CAROUSEL ENDS
 
 // START BODY STUFF

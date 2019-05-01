@@ -54,7 +54,7 @@ img {
 }
 
 /* li stuff */
-
+>
 li {
   display: flex;
   /* justify-content: space-between; */
@@ -109,12 +109,46 @@ li img {
 #carouselContainer h1 {
   justify-self: center;
 }
+
+#leftNav, #rightNav, #pausePlay {
+  font-size: 50px;
+  font-weight: 100;
+  background-color: aliceblue;
+  font-style: italic;
+  display: none;
+  cursor: pointer;
+  padding: 1vw;
+}
+
+#leftNav:hover, #rightNav:hover, #pausePlay:hover {
+  background-color: firebrick;
+  color: aliceblue;
+}
+
+#rightNav {
+  align-self: center;
+  justify-self: center;
+}
+
+#ctrl {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+}
 /* MEDIA QUERY FOR CAROUSEL */
 @media (min-width: 900px) {
   #carouselContainer {
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
     margin-bottom: 10vh;
+  }
+
+  #leftNav, #rightNav, #pausePlay{
+    display: block;
+  }
+
+  #ctrl {
+    display: flex;
   }
 
   #carouselContainer h1 {
