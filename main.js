@@ -194,7 +194,7 @@ function toggler(group, toggle) {
     group.style.cssText = "display: none;"
     toggle.style.cssText = "transform: rotate(0deg);"
   } else {
-    group.style.cssText = "display: block;"
+    group.style.cssText = "display: grid;"
     toggle.style.cssText = "transform: rotate(90deg);"
   }
 }
