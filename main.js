@@ -70,7 +70,6 @@ pausePlay.addEventListener("click", () => {
   }
 });
 
-timer();
 assign();
 
 let leftNav = document.getElementById("leftNav");
